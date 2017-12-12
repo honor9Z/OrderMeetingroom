@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2fccd0b0-612e-4d9a-9094-a91f4f128909" name="Default" comment="" />
+    <list default="true" id="2fccd0b0-612e-4d9a-9094-a91f4f128909" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +50,8 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meet/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="191">
-              <caret line="114" column="53" lean-forward="false" selection-start-line="114" selection-start-column="53" selection-end-line="114" selection-end-column="53" />
+            <state relative-caret-position="420">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -60,11 +62,73 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="298" column="58" lean-forward="true" selection-start-line="298" selection-start-column="20" selection-end-line="298" selection-end-column="58" />
+            <state relative-caret-position="327">
+              <caret line="102" column="10" lean-forward="false" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
               <folding>
-                <element signature="e#8948#9026#0#HTML" expanded="false" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <marker date="1513079687624" expanded="false" signature="2335:2355" ph="..." />
+                <marker date="1513079687624" expanded="true" signature="2356:2609" ph="..." />
+                <marker date="1513079687624" expanded="true" signature="2372:2551" ph="..." />
+                <marker date="1513079687624" expanded="true" signature="2385:2534" ph="..." />
+                <marker date="1513079687624" expanded="true" signature="2424:2521" ph="{% for choice in time_choices ... %}" />
+                <marker date="1513079687624" expanded="true" signature="2578:2596" ph="..." />
+                <marker date="1513079687624" expanded="true" signature="3232:9580" ph="..." />
+                <marker date="1513079687624" expanded="true" signature="3239:3542" ph="//..." />
+                <marker date="1513079687624" expanded="true" signature="3586:4272" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="3620:3942" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="4401:4579" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="4440:4465" ph="        初始化房间信息，将今日日期发给... %}" />
+                <marker date="1513079687624" expanded="true" signature="4619:4747" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="4764:4989" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="4811:4983" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="4882:4973" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="5023:5401" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="5071:5353" ph="{&quot;minView&quot;: &quot;month&quot;...}" />
+                <marker date="1513079687624" expanded="true" signature="5404:5414" ph="绑定的改日期后的事件... %}" />
+                <marker date="1513079687624" expanded="true" signature="5445:5564" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="5567:5593" ph="初始化房间信息（利用ajax从后台获得房间预订信... %}" />
+                <marker date="1513079687624" expanded="true" signature="5631:7035" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="5750:7028" ph="{&quot;url&quot;: '/booking/'...}" />
+                <marker date="1513079687624" expanded="true" signature="5918:6884" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="6014:6809" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="6123:6790" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="6243:6718" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="6430:6511" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="6558:6647" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="6815:6870" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="6917:7018" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="7041:7066" ph="/*...*/" />
+                <marker date="1513079687624" expanded="true" signature="7094:8422" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="7172:8415" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="7418:7777" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="7491:7552" ph="//..." />
+                <marker date="1513079687624" expanded="true" signature="7600:7679" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="7685:7762" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="7817:8106" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="8005:8092" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="8112:8405" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="8229:8308" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="8314:8391" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="8428:8448" ph="/*...*/" />
+                <marker date="1513079687624" expanded="true" signature="8478:9306" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="8549:9297" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="8624:9285" ph="{&quot;url&quot;: '/booking/'...}" />
+                <marker date="1513079687624" expanded="true" signature="8844:9271" ph="{...}" />
+                <marker date="1513079687624" expanded="false" signature="8948:9026" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="9032:9107" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="9341:9568" ph="{...}" />
+                <marker date="1513079687624" expanded="true" signature="9507:9561" ph="{...}" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meet/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="8" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -84,16 +148,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="sweetalert示例.html" pinned="false" current-in-tab="true">
-        <entry file="file://D:/python老男孩6期视频/day049~063 前端知识点（HTML、CSS、bootstrap、JS、jQuery）/day063 响应式、懒加载等插件/day63/sweetalert示例/sweetalert示例.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="44" column="6" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="44" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/meet/static/mycss/index.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -104,11 +158,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/meeting/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="690">
-              <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+            <state relative-caret-position="376">
+              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -119,9 +173,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1080">
               <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -141,6 +193,9 @@
       <find>date</find>
       <find>red</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -167,6 +222,7 @@
     <option name="width" value="1370" />
     <option name="height" value="728" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -583,13 +639,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-4" y="0" width="1370" height="728" extended-state="1" />
+    <frame x="-4" y="0" width="1370" height="728" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16793893" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16793893" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.023664122" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -598,12 +655,24 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13781513" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16793893" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.023664122" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -640,6 +709,216 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="dbDummy://dbtable:/befefaa4/76018624-a802-404d-ac2a-3501f797f9d0/main.auth_group">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/befefaa4/76018624-a802-404d-ac2a-3501f797f9d0/main.auth_user_user_permissions">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/befefaa4/76018624-a802-404d-ac2a-3501f797f9d0/main.auth_user_groups">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/befefaa4/76018624-a802-404d-ac2a-3501f797f9d0/main.meet_booking">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/befefaa4/76018624-a802-404d-ac2a-3501f797f9d0/main.meet_meetingroom">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/static/sweetalert-master/src/css/icons/info.css" />
+    <entry file="file://$PROJECT_DIR$/meet/static/sweetalert2/sweetalert2.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python老男孩6期视频/day049~063 前端知识点（HTML、CSS、bootstrap、JS、jQuery）/day063 响应式、懒加载等插件/day63/懒加载示例/懒加载示例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="78" column="4" lean-forward="false" selection-start-line="73" selection-start-column="16" selection-end-line="73" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python老男孩6期视频/day049~063 前端知识点（HTML、CSS、bootstrap、JS、jQuery）/day063 响应式、懒加载等插件/day63/轮播/轮播示例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1377">
+          <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python老男孩6期视频/day049~063 前端知识点（HTML、CSS、bootstrap、JS、jQuery）/day063 响应式、懒加载等插件/day63/sweetalert示例/sweetalert示例.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="44" column="6" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="44" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="dbDummy://dbtable:/befefaa4/76018624-a802-404d-ac2a-3501f797f9d0/main.meet_userinfo">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meeting/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="23" column="28" lean-forward="false" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/static/mycss/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="35" column="20" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="327">
+          <caret line="103" column="60" lean-forward="false" selection-start-line="103" selection-start-column="60" selection-end-line="103" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1513079687624" expanded="false" signature="2335:2355" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2356:2609" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2372:2551" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2385:2534" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2424:2521" ph="{% for choice in time_choices ... %}" />
+            <marker date="1513079687624" expanded="true" signature="2578:2596" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="3232:9580" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="3239:3542" ph="//..." />
+            <marker date="1513079687624" expanded="true" signature="3586:4272" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="3620:3942" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4401:4579" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4440:4465" ph="        初始化房间信息，将今日日期发给... %}" />
+            <marker date="1513079687624" expanded="true" signature="4619:4747" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4764:4989" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4811:4983" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4882:4973" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5023:5401" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5071:5353" ph="{&quot;minView&quot;: &quot;month&quot;...}" />
+            <marker date="1513079687624" expanded="true" signature="5404:5414" ph="绑定的改日期后的事件... %}" />
+            <marker date="1513079687624" expanded="true" signature="5445:5564" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5567:5593" ph="初始化房间信息（利用ajax从后台获得房间预订信... %}" />
+            <marker date="1513079687624" expanded="true" signature="5631:7035" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5750:7028" ph="{&quot;url&quot;: '/booking/'...}" />
+            <marker date="1513079687624" expanded="true" signature="5918:6884" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6014:6809" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6123:6790" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6243:6718" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6430:6511" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6558:6647" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6815:6870" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6917:7018" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7041:7066" ph="/*...*/" />
+            <marker date="1513079687624" expanded="true" signature="7094:8422" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7172:8415" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7418:7777" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7491:7552" ph="//..." />
+            <marker date="1513079687624" expanded="true" signature="7600:7679" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7685:7762" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7817:8106" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8005:8092" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8112:8405" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8229:8308" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8314:8391" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8428:8448" ph="/*...*/" />
+            <marker date="1513079687624" expanded="true" signature="8478:9306" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8549:9297" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8624:9285" ph="{&quot;url&quot;: '/booking/'...}" />
+            <marker date="1513079687624" expanded="true" signature="8844:9271" ph="{...}" />
+            <marker date="1513079687624" expanded="false" signature="8948:9026" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9032:9107" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9341:9568" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9507:9561" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meet/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="20" column="1" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="5" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/meet/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4980">
@@ -670,9 +949,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -681,7 +958,59 @@
         <state relative-caret-position="3240">
           <caret line="108" column="0" lean-forward="false" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
           <folding>
-            <element signature="e#8948#9026#0#HTML" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1513079687624" expanded="false" signature="2335:2355" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2356:2609" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2372:2551" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2385:2534" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2424:2521" ph="{% for choice in time_choices ... %}" />
+            <marker date="1513079687624" expanded="true" signature="2578:2596" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="3232:9580" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="3239:3542" ph="//..." />
+            <marker date="1513079687624" expanded="true" signature="3586:4272" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="3620:3942" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4401:4579" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4440:4465" ph="        初始化房间信息，将今日日期发给... %}" />
+            <marker date="1513079687624" expanded="true" signature="4619:4747" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4764:4989" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4811:4983" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4882:4973" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5023:5401" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5071:5353" ph="{&quot;minView&quot;: &quot;month&quot;...}" />
+            <marker date="1513079687624" expanded="true" signature="5404:5414" ph="绑定的改日期后的事件... %}" />
+            <marker date="1513079687624" expanded="true" signature="5445:5564" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5567:5593" ph="初始化房间信息（利用ajax从后台获得房间预订信... %}" />
+            <marker date="1513079687624" expanded="true" signature="5631:7035" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5750:7028" ph="{&quot;url&quot;: '/booking/'...}" />
+            <marker date="1513079687624" expanded="true" signature="5918:6884" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6014:6809" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6123:6790" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6243:6718" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6430:6511" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6558:6647" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6815:6870" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6917:7018" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7041:7066" ph="/*...*/" />
+            <marker date="1513079687624" expanded="true" signature="7094:8422" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7172:8415" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7418:7777" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7491:7552" ph="//..." />
+            <marker date="1513079687624" expanded="true" signature="7600:7679" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7685:7762" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7817:8106" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8005:8092" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8112:8405" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8229:8308" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8314:8391" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8428:8448" ph="/*...*/" />
+            <marker date="1513079687624" expanded="true" signature="8478:9306" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8549:9297" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8624:9285" ph="{&quot;url&quot;: '/booking/'...}" />
+            <marker date="1513079687624" expanded="true" signature="8844:9271" ph="{...}" />
+            <marker date="1513079687624" expanded="false" signature="8948:9026" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9032:9107" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9341:9568" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9507:9561" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -716,9 +1045,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -727,7 +1054,59 @@
         <state relative-caret-position="3240">
           <caret line="108" column="0" lean-forward="true" selection-start-line="108" selection-start-column="0" selection-end-line="108" selection-end-column="0" />
           <folding>
-            <element signature="e#8948#9026#0#HTML" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1513079687624" expanded="false" signature="2335:2355" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2356:2609" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2372:2551" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2385:2534" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2424:2521" ph="{% for choice in time_choices ... %}" />
+            <marker date="1513079687624" expanded="true" signature="2578:2596" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="3232:9580" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="3239:3542" ph="//..." />
+            <marker date="1513079687624" expanded="true" signature="3586:4272" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="3620:3942" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4401:4579" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4440:4465" ph="        初始化房间信息，将今日日期发给... %}" />
+            <marker date="1513079687624" expanded="true" signature="4619:4747" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4764:4989" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4811:4983" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4882:4973" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5023:5401" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5071:5353" ph="{&quot;minView&quot;: &quot;month&quot;...}" />
+            <marker date="1513079687624" expanded="true" signature="5404:5414" ph="绑定的改日期后的事件... %}" />
+            <marker date="1513079687624" expanded="true" signature="5445:5564" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5567:5593" ph="初始化房间信息（利用ajax从后台获得房间预订信... %}" />
+            <marker date="1513079687624" expanded="true" signature="5631:7035" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5750:7028" ph="{&quot;url&quot;: '/booking/'...}" />
+            <marker date="1513079687624" expanded="true" signature="5918:6884" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6014:6809" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6123:6790" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6243:6718" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6430:6511" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6558:6647" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6815:6870" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6917:7018" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7041:7066" ph="/*...*/" />
+            <marker date="1513079687624" expanded="true" signature="7094:8422" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7172:8415" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7418:7777" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7491:7552" ph="//..." />
+            <marker date="1513079687624" expanded="true" signature="7600:7679" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7685:7762" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7817:8106" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8005:8092" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8112:8405" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8229:8308" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8314:8391" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8428:8448" ph="/*...*/" />
+            <marker date="1513079687624" expanded="true" signature="8478:9306" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8549:9297" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8624:9285" ph="{&quot;url&quot;: '/booking/'...}" />
+            <marker date="1513079687624" expanded="true" signature="8844:9271" ph="{...}" />
+            <marker date="1513079687624" expanded="false" signature="8948:9026" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9032:9107" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9341:9568" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9507:9561" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -760,7 +1139,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2793">
           <caret line="120" column="0" lean-forward="false" selection-start-line="120" selection-start-column="0" selection-end-line="120" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -862,15 +1240,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meet/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/meeting/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="690">
-          <caret line="23" column="1" lean-forward="false" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+        <state relative-caret-position="120">
+          <caret line="4" column="8" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -879,9 +1250,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1080">
           <caret line="36" column="41" lean-forward="false" selection-start-line="36" selection-start-column="41" selection-end-line="36" selection-end-column="41" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -890,7 +1259,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -917,8 +1285,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/meet/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="114" column="53" lean-forward="false" selection-start-line="114" selection-start-column="53" selection-end-line="114" selection-end-column="53" />
+        <state relative-caret-position="420">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -927,10 +1295,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="298" column="58" lean-forward="true" selection-start-line="298" selection-start-column="20" selection-end-line="298" selection-end-column="58" />
+        <state relative-caret-position="327">
+          <caret line="102" column="10" lean-forward="false" selection-start-line="102" selection-start-column="10" selection-end-line="102" selection-end-column="10" />
           <folding>
-            <element signature="e#8948#9026#0#HTML" expanded="false" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1513079687624" expanded="false" signature="2335:2355" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2356:2609" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2372:2551" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2385:2534" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="2424:2521" ph="{% for choice in time_choices ... %}" />
+            <marker date="1513079687624" expanded="true" signature="2578:2596" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="3232:9580" ph="..." />
+            <marker date="1513079687624" expanded="true" signature="3239:3542" ph="//..." />
+            <marker date="1513079687624" expanded="true" signature="3586:4272" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="3620:3942" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4401:4579" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4440:4465" ph="        初始化房间信息，将今日日期发给... %}" />
+            <marker date="1513079687624" expanded="true" signature="4619:4747" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4764:4989" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4811:4983" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="4882:4973" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5023:5401" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5071:5353" ph="{&quot;minView&quot;: &quot;month&quot;...}" />
+            <marker date="1513079687624" expanded="true" signature="5404:5414" ph="绑定的改日期后的事件... %}" />
+            <marker date="1513079687624" expanded="true" signature="5445:5564" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5567:5593" ph="初始化房间信息（利用ajax从后台获得房间预订信... %}" />
+            <marker date="1513079687624" expanded="true" signature="5631:7035" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="5750:7028" ph="{&quot;url&quot;: '/booking/'...}" />
+            <marker date="1513079687624" expanded="true" signature="5918:6884" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6014:6809" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6123:6790" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6243:6718" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6430:6511" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6558:6647" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6815:6870" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="6917:7018" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7041:7066" ph="/*...*/" />
+            <marker date="1513079687624" expanded="true" signature="7094:8422" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7172:8415" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7418:7777" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7491:7552" ph="//..." />
+            <marker date="1513079687624" expanded="true" signature="7600:7679" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7685:7762" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="7817:8106" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8005:8092" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8112:8405" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8229:8308" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8314:8391" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8428:8448" ph="/*...*/" />
+            <marker date="1513079687624" expanded="true" signature="8478:9306" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8549:9297" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="8624:9285" ph="{&quot;url&quot;: '/booking/'...}" />
+            <marker date="1513079687624" expanded="true" signature="8844:9271" ph="{...}" />
+            <marker date="1513079687624" expanded="false" signature="8948:9026" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9032:9107" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9341:9568" ph="{...}" />
+            <marker date="1513079687624" expanded="true" signature="9507:9561" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -947,7 +1367,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1377">
           <caret line="5" column="62" lean-forward="true" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="62" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -955,6 +1374,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="44" column="6" lean-forward="false" selection-start-line="36" selection-start-column="4" selection-end-line="44" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meeting/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding />
         </state>
       </provider>
