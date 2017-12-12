@@ -18,7 +18,7 @@ def auth(func):
         return func(request, *args, **kwargs)
 
     return inner
-
+#注销功能
 def reg(request):
     del request.session['user_info']
     return redirect('/index/')
