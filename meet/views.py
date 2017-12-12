@@ -19,6 +19,10 @@ def auth(func):
 
     return inner
 
+def reg(request):
+    del request.session['user_info']
+    return redirect('/index/')
+
 def login(request):
     """
     用户登录
@@ -51,8 +55,10 @@ def index(request):
     """
     #拿到所有的时间段
     time_choices = models.Booking.time_choices
+    user_info = request.session.get('user_info')
+    name=user_info['name']
 
-    return render(request, 'index.html', {'time_choices': time_choices})
+    return render(request, 'index.html', {'time_choices': time_choices,'name':name})
 
 
 
